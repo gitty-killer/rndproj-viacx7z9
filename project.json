@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-viacx7z9"",
+  ""goal"": ""alerts router for feature flags"",
+  ""language"": ""go"",
+  ""template"": ""go-service""
+}
